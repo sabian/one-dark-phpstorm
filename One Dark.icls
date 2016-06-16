@@ -588,6 +588,11 @@
         <option name="FOREGROUND" value="6cb8f1" />
       </value>
     </option>
+    <option name="PHP_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="6cb8f1" />
+      </value>
+    </option>
     <option name="PHP_HEREDOC_CONTENT">
       <value>
         <option name="FOREGROUND" value="d7a471" />
