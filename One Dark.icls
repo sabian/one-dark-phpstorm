@@ -352,7 +352,9 @@
       </value>
     </option>
     <option name="DELETED_TEXT_ATTRIBUTES">
-      <value />
+      <value>
+        <option name="EFFECT_TYPE" value="3" />
+      </value>
     </option>
     <option name="DEPRECATED_ATTRIBUTES">
       <value>
@@ -448,7 +450,9 @@
       </value>
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
-      <value />
+      <value>
+        <option name="BACKGROUND" value="3c3f41" />
+      </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
       <value>
@@ -483,6 +487,11 @@
         <option name="BACKGROUND" value="282c34" />
       </value>
     </option>
+    <option name="JS.CLASS">
+      <value>
+        <option name="FOREGROUND" value="e5c07b" />
+      </value>
+    </option>
     <option name="JS.DOC_COMMENT">
       <value>
         <option name="FOREGROUND" value="5f6985" />
@@ -496,28 +505,19 @@
     </option>
     <option name="JS.GLOBAL_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="388ee9" />
+        <option name="FOREGROUND" value="e5c07b" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="JS.GLOBAL_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="abb2ba" />
-      </value>
-    </option>
+    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="abb2ba" />
+        <option name="FOREGROUND" value="6cb8f1" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="abb2ba" />
-      </value>
-    </option>
-    <option name="JS.KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="b27ecd" />
+        <option name="FOREGROUND" value="d19a66" />
       </value>
     </option>
     <option name="JS.LOCAL_VARIABLE">
@@ -525,13 +525,7 @@
         <option name="FOREGROUND" value="abb2b6" />
       </value>
     </option>
-    <option name="JS.PARAMETER">
-      <value>
-        <option name="FOREGROUND" value="abb2b6" />
-        <option name="EFFECT_COLOR" value="0" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
+    <option name="JS.PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="JS.REGEXP">
       <value>
         <option name="FOREGROUND" value="3da9c2" />
@@ -639,7 +633,9 @@
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
-      <value />
+      <value>
+        <option name="BACKGROUND" value="3c3f41" />
+      </value>
     </option>
     <option name="STATIC_FIELD_ATTRIBUTES">
       <value>
@@ -663,7 +659,9 @@
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
-      <value />
+      <value>
+        <option name="BACKGROUND" value="3c3f41" />
+      </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
@@ -701,10 +699,14 @@
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
-      <value />
+      <value>
+        <option name="BACKGROUND" value="3c3f41" />
+      </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
-      <value />
+      <value>
+        <option name="BACKGROUND" value="3c3f41" />
+      </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
